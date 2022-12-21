@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nelsonjucoski/tilicofilmes.git/static/css/main.073c9b0a.css",
+    "main.js": "/nelsonjucoski/tilicofilmes.git/static/js/main.e60177be.js",
+    "static/js/787.1ad36ab1.chunk.js": "/nelsonjucoski/tilicofilmes.git/static/js/787.1ad36ab1.chunk.js",
+    "static/media/logo.svg": "/nelsonjucoski/tilicofilmes.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nelsonjucoski/tilicofilmes.git/index.html",
+    "main.073c9b0a.css.map": "/nelsonjucoski/tilicofilmes.git/static/css/main.073c9b0a.css.map",
+    "main.e60177be.js.map": "/nelsonjucoski/tilicofilmes.git/static/js/main.e60177be.js.map",
+    "787.1ad36ab1.chunk.js.map": "/nelsonjucoski/tilicofilmes.git/static/js/787.1ad36ab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e60177be.js"
+  ]
+}
